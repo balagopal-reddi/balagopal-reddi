@@ -1,136 +1,400 @@
-<h1 align="center">Hi 👋, I'm Jartha Balagopal Reddi</h1>
-<h3 align="center">Aspiring Software Engineer | Java Developer | Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Software+Engineer;Java+Developer;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Technologies!" alt="Typing SVG" />
-</p>
+# Hi 👋, I'm Jartha Balagopal Reddi
 
----
+### 💻 Aspiring Software Engineer | ☕ Java Developer | 🌐 Full Stack Developer
 
-# 👨‍🎓 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub+Profile!;Aspiring+Software+Engineer;Java+Developer;Python+Programmer;Full+Stack+Developer;Always+Learning+New+Technologies!" />
 
-- 👤 **Name:** Jartha Balagopal Reddi
-- 🎓 **College:** Vishnu Institute of Technology, Bhimavaram
-- 🌿 **Branch:** Information Technology (IT)
-- 🎓 **Graduation:** 2027
-- 📍 **Location:** Andhra Pradesh, India
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=balagopalreddijartha654-hue&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 🙋 About Me
 
-🔭 Currently building Java, Python, and Full Stack Web Applications.
+<table>
+<tr>
 
-🌱 Currently learning **Java, Data Structures & Algorithms, Full Stack Development, Cloud Computing, and Machine Learning.**
+<td width="55%">
 
-👯 Looking to collaborate on **Open Source, Java, Python, and Web Development** projects.
+### 👨‍💻 Hello Everyone!
 
-🤝 Seeking opportunities to improve my software development skills and contribute to impactful software projects.
+- 🎓 B.Tech in Information Technology
+- 🏫 Vishnu Institute of Technology, Bhimavaram
+- 📅 Graduating in 2027
+- 🌱 Currently learning
+  - Java
+  - Data Structures & Algorithms
+  - Full Stack Development
+  - Machine Learning
+  - Cloud Computing
 
-💬 Ask me about **Java, Python, HTML, CSS, JavaScript, Flask, Django, SQL, Git, GitHub, and Web Development.**
+- 🔭 Building Java & Python Projects
 
-⚡ **Fun Fact:** *I enjoy solving coding challenges and building real-world applications.*
+- 💬 Ask me about
+
+  - Java
+  - Python
+  - HTML
+  - CSS
+  - JavaScript
+  - SQL
+  - Flask
+  - Git & GitHub
+
+- 🎯 Goal
+
+Become a Software Engineer at a top product-based company.
+
+- ⚡ Fun Fact
+
+> "I enjoy solving coding challenges and building useful applications."
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/balagopalreddi-jartha-03a74332b/?skipRedirect=true" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/balagopalreddi-jartha-03a74332b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/ft.bal.gopal.4u/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:balagopalreddy654@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
+---
+
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Languages
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js"/>
 
-## 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</p>
 
 ---
 
-## ⚙️ Backend Development
+## 🎨 Frontend
 
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+</p>
 
 ---
 
-## ☁️ Cloud & Deployment
+## ⚙️ Backend
 
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django"/>
 
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</p>
 
 ---
 
-# 🌟 Areas of Interest
+## 🗄️ Database
 
-🤖 Artificial Intelligence
+<p>
 
-🧠 Machine Learning
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-🌐 Full Stack Development
+</p>
 
-☁️ Cloud Computing
+---
 
-💻 Software Development
+## ☁️ Cloud
 
-📊 Data Structures & Algorithms
+<p>
 
-# ✍️ Developer Quote
+<img src="https://skillicons.dev/icons?i=aws,vercel"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+
+</p>
+
+---
+
+# 🚀 Currently Working On
+
+- 🌐 Full Stack Web Development
+
+- ☕ Java Development
+
+- 📊 Data Structures & Algorithms
+
+- 🤖 Machine Learning
+
+- ☁️ Cloud Computing
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=balagopalreddijartha654-hue&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balagopalreddijartha654-hue&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=balagopalreddijartha654-hue&theme=tokyonight&hide_border=true"/>
+
+</p>
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=balagopalreddijartha654-hue&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balagopalreddijartha654-hue&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=balagopalreddijartha654-hue&theme=tokyonight"/>
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=balagopalreddijartha654-hue&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=balagopalreddijartha654-hue&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+# 📅 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=balagopalreddijartha654-hue&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=balagopalreddijartha654-hue&theme=tokyonight&utcOffset=5.5" height="180"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 E-Commerce Web Application
+
+✔ Java / Python
+
+✔ Flask
+
+✔ User Authentication
+
+✔ Product Management
+
+✔ Responsive UI
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+✔ Responsive Design
+
+✔ Modern UI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Machine Learning Projects
+
+✔ Python
+
+✔ NumPy
+
+✔ Pandas
+
+✔ Data Analysis
+
+</td>
+
+<td width="50%">
+
+### 💻 Java Projects
+
+✔ Core Java
+
+✔ OOP
+
+✔ Collections
+
+✔ File Handling
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Java
+- ✅ Solve 500+ DSA Problems
+- ✅ Build 20+ Projects
+- ✅ Contribute to Open Source
+- ✅ Learn System Design
+- ✅ Crack a Software Engineer Role
+
+---
+
+# 🌟 Skills
+
+```text
+Java               █████████████░░░ 85%
+
+Python             ████████████░░░░ 80%
+
+HTML/CSS           ██████████████░░ 90%
+
+JavaScript         ███████████░░░░░ 75%
+
+SQL                ████████████░░░░ 80%
+
+Git & GitHub       █████████████░░░ 85%
+
+Machine Learning   ██████████░░░░░░ 65%
+
+Cloud Computing    █████████░░░░░░░ 60%
+```
+
+---
+
+# 💡 Quote I Believe In
+
+<div align="center">
+
+## "Consistency beats talent when talent doesn't stay consistent."
+
+</div>
+
+---
+
+# ✍ Random Developer Quote
+
+<p align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my GitHub Profile! ✨</h3>
+# 📫 Contact Me
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories.<br>
-Let's connect, collaborate, and build something amazing together! 🚀
+
+<a href="mailto:balagopalreddy654@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/balagopalreddi-jartha-03a74332b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/ft.bal.gopal.4u/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
 </p>
 
+---
+
+# 💖 Thanks for Visiting!
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories.
+
+### 🤝 Let's collaborate and build something amazing together.
+
+### 🚀 Happy Coding!
+
+</div>
+
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00BFFF,100:6A5ACD&section=footer"/>
+
 </p>
