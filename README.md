@@ -34,6 +34,23 @@
 
 # 🌐 Connect With Me
 
+# 🌐 My Portfolio
+
+<p align="center">
+
+<a href="https://balagopal-reddi.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>🔗 Portfolio:</b>
+  <a href="https://balagopal-reddi.github.io/portfolio/" target="_blank">
+    https://balagopal-reddi.github.io/portfolio/
+  </a>
+</p>
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/balagopalreddi-jartha-03a74332b/?skipRedirect=true" target="_blank">
